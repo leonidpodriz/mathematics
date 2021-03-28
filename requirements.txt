@@ -16,3 +16,5 @@ pytest==6.2.2
 six @ file:///C:/ci/six_1605187374963/work
 toml @ file:///tmp/build/80754af9/toml_1616166611790/work
 wincertstore==0.2
+
+numpy~=1.19.2
